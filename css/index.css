@@ -533,9 +533,6 @@ header nav ul li:hover {
   display: flex;
   justify-content: space-between;
 }
-.trial .bottom_trial .send div input:not(:last-child) {
-  margin-right: 50px;
-}
 .trial .bottom_trial .send div input {
   width: 335px;
   height: 70px;
